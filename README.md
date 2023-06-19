@@ -1,4 +1,4 @@
-# Place Route Design Flow
+# Place and Route Design Flow
 
 The physical design is developed for a small single-core RISC-V SoC called PULPino.
 
