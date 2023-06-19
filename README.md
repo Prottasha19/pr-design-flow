@@ -29,8 +29,9 @@ The layout after the macro placement, power rings and pin edditing
 
 <img src="https://media.discordapp.net/attachments/999333909873557594/1120296513113952337/Bildschirmfoto_vom_2023-06-08_11-32-39.png?width=756&height=473" />
 
+Route design
 
-
+<img src="https://media.discordapp.net/attachments/999333909873557594/1120296511826296993/Bildschirmfoto_vom_2023-06-15_11-40-22.png?width=756&height=473" />
 
 
 
