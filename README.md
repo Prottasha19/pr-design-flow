@@ -1,8 +1,15 @@
 # pr-design-flow
 
-The general view of the design flow is shown in the following picture:
+The physical design is developed for a small single-core RISC-V SoC called PULPino.
 
-<img src="https://media.discordapp.net/attachments/705800194918187100/1120257952247451648/Screenshot_4.png?width=210&height=472" />
+These following steps are used:
 
+	a. Floor-planning
+	b. Placement
+	c. Clock Tree Synthesis
+	d. Routing
+	E. Verification
+	
+The design should have an aspect ratio of 1, a core utilization of 70% and a core to io boundary distance of 20 μ m in all the directions. Aspect Ratio defines the chip's core dimensions as the ratio of the height divided by the width. Core Utilization determines the core and module sizes by total standard cells and macros density.
 
-
+The uart pins are used and placed them on the top side of the floorplan on metal 3. A 10μ spacing is considered between pins.
