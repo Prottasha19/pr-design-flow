@@ -15,5 +15,5 @@ The design should have an aspect ratio of 1, a core utilization of 70% and a cor
 The uart pins are used and placed them on the top side of the floorplan on metal 3. A 10μ spacing is considered between pins.
 
 
-<h3>Clock synthesis: </h3>
+<h3> Clock tree synthesis </h3>
 
